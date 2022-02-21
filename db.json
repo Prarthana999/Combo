@@ -1,0 +1,14 @@
+{
+"Area" :[
+    { "id": 1, "parendId": 0, "name": "Sri Lanka"},  
+    { "id": 2, "parentId": 1, "name": "Central"},
+    { "id": 3, "parentId": 1, "name": "Kandy"},
+    { "id": 4, "parentId": 1, "name": "Matale"},
+    { "id": 5, "parentId": 1, "name": "Nuwara Eliya"},
+    { "id": 6, "parentId": 2, "name": "Eastern"},
+    { "id": 7, "parentId": 3, "name": "Jaffna"},
+    { "id": 8, "parentId": 3, "name": "Kilinochchi"},
+    { "id": 9, "parentId": 3, "name": "Mannar"},
+    { "id": 10, "parentId": 3, "name": "Mullaitivu"}
+    ]
+}
