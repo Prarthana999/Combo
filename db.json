@@ -25,15 +25,15 @@
     { "id": 10, "parentId": 3, "name": "PLASTIC" }
     ],
        "Distributor" :[
-      { "id": 1, "parendId": 0, "name": "ICL" },
-    { "id": 2, "parentId": 1, "name": "AVENGER" },
-    { "id": 3, "parentId": 1, "name": "BOTTLES" },
-    { "id": 4, "parentId": 1, "name": "FACIAL TISSUES" },
-    { "id": 5, "parentId": 2, "name": "BLACK KNIGHT" },
+      { "id": 1, "parendId": 0, "name": "RUKSEN  DISTRIBUTORS" },
+    { "id": 2, "parentId": 1, "name": "SAVEN STAR GROCERY" },
+    { "id": 3, "parentId": 1, "name": "A.C.S DISTRIBUTORS - MINUWANGODA" },
+    { "id": 4, "parentId": 1, "name": "SAJITHA STORES" },
+    { "id": 5, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
     { "id": 6, "parentId": 2, "name": "FREE & EASY" },
-    { "id": 7, "parentId": 2, "name": "NIVARAN" },
-    { "id": 8, "parentId": 3, "name": "CANS" },
-    { "id": 9, "parentId": 3, "name": "TUBES" },
-    { "id": 10, "parentId": 3, "name": "PLASTIC" }
+    { "id": 7, "parentId": 2, "name": "BUDDIKA DISTRIBUTORS" },
+    { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
+    { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
+    { "id": 10, "parentId": 3, "name": "RAJ GROCERY" }
     ]
 }
