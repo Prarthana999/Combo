@@ -24,7 +24,7 @@
     { "id": 9, "parentId": 3, "name": "TUBES" },
     { "id": 10, "parentId": 3, "name": "PLASTIC" }
     ],
-       "outlet" :[
+       "Distributor" :[
     { "id": 1, "parendId": 0, "name": "SAVEN STAR GROCERY" },
     { "id": 2, "parendId": 1, "name": "SAJITHA STORES" },
     { "id": 3, "parendId": 1, "name": "THANUJA STORES" },
