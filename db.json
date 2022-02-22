@@ -25,15 +25,15 @@
     { "id": 10, "parentId": 3, "name": "PLASTIC" }
     ],
        "outlet" :[
-    { "id": 1,  "name": "SAVEN STAR GROCERY" },
-    { "id": 2,  "name": "SAJITHA STORES" },
-    { "id": 3,  "name": "THANUJA STORES" },
-    { "id": 4,  "name": "J.N.P DAILY" },
-    { "id": 5,  "name": "COOP CITY WOODLAND ROAD" },
-    { "id": 6,  "name": "PRARTHANA STORES" },
-    { "id": 7,  "name": "GEARGE STUAT WELLNESS SHOP" },
-    { "id": 8,  "name": "INDUMATHI STORES" },
-    { "id": 9, "name": "RAJ GROCERY" },
-    { "id": 10,  "name": "JAYASUMANA OSU" }
+    { "id": 1, "parendId": 0, "name": "SAVEN STAR GROCERY" },
+    { "id": 2, "parendId": 1, "name": "SAJITHA STORES" },
+    { "id": 3, "parendId": 1, "name": "THANUJA STORES" },
+    { "id": 4, "parendId": 1, "name": "J.N.P DAILY" },
+    { "id": 5, "parendId": 2, "name": "COOP CITY WOODLAND ROAD" },
+    { "id": 6, "parendId": 2, "name": "PRARTHANA STORES" },
+    { "id": 7,  "parendId": 2,"name": "GEARGE STUAT WELLNESS SHOP" },
+    { "id": 8,  "parendId": 3,"name": "INDUMATHI STORES" },
+    { "id": 9, "parendId": 3,"name": "RAJ GROCERY" },
+    { "id": 10, "parendId": 3, "name": "JAYASUMANA OSU" }
     ]
 }
