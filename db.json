@@ -36,11 +36,11 @@
     { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
     { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
     { "id": 10, "parentId": 3, "name": "RAJ GROCERY" },
-    { "id": 11, "parentId": 4, "name": "J.N.P DAILY" },
-    { "id": 12, "parentId": 4, "name": "PRARTHANA STORES" },
-    { "id": 13, "parentId": 4, "name": "RAJ GROCERY" },
+    { "id": 11, "parentId": 4, "name": "WEERASEKARA OSU" },
+    { "id": 12, "parentId": 4, "name": "SOUTH CHEMIST" },
+    { "id": 13, "parentId": 4, "name": "JAGATH STORES" },
     { "id": 14, "parentId": 5, "name": "THANUJA STORES" },
-    { "id": 15, "parentId": 5, "name": "J.N.P DAILY" },
-    { "id": 16, "parentId": 5, "name": "MENDIS STORES" }
+    { "id": 15, "parentId": 5, "name": "SISIRA STORES" },
+    { "id": 16, "parentId": 5, "name": "SAMSAN GROCERY" }
     ]
 }
