@@ -25,15 +25,18 @@
     { "id": 10, "parentId": 3, "name": "PLASTIC" }
     ],
        "Distributor" :[
-      { "id": 1, "parendId": 0, "name": "RUKSEN  DISTRIBUTORS" },
-    { "id": 2, "parentId": 1, "name": "SAVEN STAR GROCERY" },
+      { "id": 1, "parendId": 0, "name": "ALL" },
+    { "id": 2, "parentId": 1, "name": "RUKSEN  DISTRIBUTORS" },
     { "id": 3, "parentId": 1, "name": "A.C.S DISTRIBUTORS - MINUWANGODA" },
-    { "id": 4, "parentId": 1, "name": "SAJITHA STORES" },
+    { "id": 4, "parentId": 1, "name": "BUDDIKA DISTRIBUTORS" },
     { "id": 5, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
     { "id": 6, "parentId": 2, "name": "FREE & EASY" },
-    { "id": 7, "parentId": 2, "name": "BUDDIKA DISTRIBUTORS" },
+    { "id": 7, "parentId": 2, "name": "SAJITHA STORES" },
     { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
     { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
     { "id": 10, "parentId": 3, "name": "RAJ GROCERY" }
+    { "id": 11, "parentId": 4, "name": "J.N.P DAILY" },
+    { "id": 12, "parentId": 4, "name": "PRARTHANA STORES" },
+    { "id": 13, "parentId": 4, "name": "RAJ GROCERY" }
     ]
 }
