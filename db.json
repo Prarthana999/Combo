@@ -32,14 +32,19 @@
     { "id": 2, "parentId": 1, "name": "RUKSEN  DISTRIBUTORS" },
     { "id": 3, "parentId": 1, "name": "A.C.S DISTRIBUTORS - MINUWANGODA" },
     { "id": 4, "parentId": 1, "name": "BUDDIKA DISTRIBUTORS" },
-    { "id": 4, "parentId": 1, "name": "DINESH DISTRIBUTORS(PVT)LTD" },
-    { "id": 5, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
-    { "id": 6, "parentId": 2, "name": "SAMSAN GROCERY" },
-    { "id": 7, "parentId": 2, "name": "SAJITHA STORES" },
-    { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
-    { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
-    { "id": 10, "parentId": 3, "name": "RAJ GROCERY" },
-    { "id": 11, "parentId": 4, "name": "WEERASEKARA OSU" }
+    { "id": 5, "parentId": 1, "name": "DINESH DISTRIBUTORS(PVT)LTD" },
+    { "id": 6, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
+    { "id": 7, "parentId": 2, "name": "SAMSAN GROCERY" },
+    { "id": 8, "parentId": 2, "name": "SAJITHA STORES" },
+    { "id": 9, "parentId": 3, "name": "J.N.P DAILY" },
+    { "id": 10, "parentId": 3, "name": "PRARTHANA STORES" },
+    { "id": 11, "parentId": 3, "name": "RAJ GROCERY" },
+    { "id": 12, "parentId": 4, "name": "WEERASEKARA OSU" },
+    { "id": 13, "parentId": 4, "name": "RASAKADE" },
+    { "id": 14, "parentId": 4, "name": "INDIKA STORES" },
+    { "id": 15, "parentId": 5, "name": "MULTY SHOP" },
+    { "id": 16, "parentId": 5, "name": "DEEPTHI COMMUNICATIONE" },
+    { "id": 17, "parentId": 5, "name": "HANSADEEPA STOERS" }
  
  
     ]
