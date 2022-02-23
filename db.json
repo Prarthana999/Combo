@@ -41,6 +41,6 @@
     { "id": 13, "parentId": 4, "name": "JAGATH STORES" },
     { "id": 14, "parentId": 5, "name": "THANUJA STORES" },
     { "id": 15, "parentId": 5, "name": "SISIRA STORES" },
-    { "id": 16, "parentId": 5, "name": "SAMSAN GROCERY" }
+    { "id": 16, "parentId": 6, "name": "SAMSAN GROCERY" }
     ]
 }
