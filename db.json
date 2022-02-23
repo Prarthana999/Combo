@@ -15,14 +15,14 @@
      "Category" :[
      { "id": 1, "parendId": 0, "name": "ICL" },
     { "id": 2, "parentId": 1, "name": "AVENGER" },
-    { "id": 3, "parentId": 1, "name": "BOTTLES" },
+    { "id": 3, "parentId": 1, "name": "PLASTIC" },
     { "id": 4, "parentId": 1, "name": "FACIAL TISSUES" },
     { "id": 5, "parentId": 2, "name": "BLACK KNIGHT" },
     { "id": 6, "parentId": 2, "name": "FREE & EASY" },
     { "id": 7, "parentId": 2, "name": "NIVARAN" },
     { "id": 8, "parentId": 3, "name": "CANS" },
     { "id": 9, "parentId": 3, "name": "TUBES" },
-    { "id": 10, "parentId": 3, "name": "PLASTIC" },
+    { "id": 10, "parentId": 3, "name": "BOTTLES" },
     { "id": 8, "parentId": 6, "name": "FACIAL TISSUES" },
     { "id": 9, "parentId": 6, "name": "WINGS" },
     { "id": 10, "parentId": 6, "name": "SPLASH-ON" }
