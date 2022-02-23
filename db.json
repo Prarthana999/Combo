@@ -34,7 +34,7 @@
     { "id": 7, "parentId": 2, "name": "SAJITHA STORES" },
     { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
     { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
-    { "id": 10, "parentId": 3, "name": "RAJ GROCERY" }
+    { "id": 10, "parentId": 3, "name": "RAJ GROCERY" },
     { "id": 11, "parentId": 4, "name": "J.N.P DAILY" },
     { "id": 12, "parentId": 4, "name": "PRARTHANA STORES" },
     { "id": 13, "parentId": 4, "name": "RAJ GROCERY" }
