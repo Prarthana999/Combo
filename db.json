@@ -28,20 +28,19 @@
     { "id": 10, "parentId": 6, "name": "SPLASH-ON" }
     ],
        "Distributor" :[
-      { "id": 1, "parendId": 0, "name": "ALL" },
+    { "id": 1, "parendId": 0, "name": "ALL" },
     { "id": 2, "parentId": 1, "name": "RUKSEN  DISTRIBUTORS" },
     { "id": 3, "parentId": 1, "name": "A.C.S DISTRIBUTORS - MINUWANGODA" },
     { "id": 4, "parentId": 1, "name": "BUDDIKA DISTRIBUTORS" },
-     { "id": 4, "parentId": 1, "name": "DINESH DISTRIBUTORS(PVT)LTD" },
+    { "id": 4, "parentId": 1, "name": "DINESH DISTRIBUTORS(PVT)LTD" },
     { "id": 5, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
     { "id": 6, "parentId": 2, "name": "SAMSAN GROCERY" },
     { "id": 7, "parentId": 2, "name": "SAJITHA STORES" },
     { "id": 8, "parentId": 3, "name": "J.N.P DAILY" },
     { "id": 9, "parentId": 3, "name": "PRARTHANA STORES" },
     { "id": 10, "parentId": 3, "name": "RAJ GROCERY" },
-    { "id": 11, "parentId": 4, "name": "WEERASEKARA OSU" },
-    { "id": 12, "parentId": 4, "name": "SOUTH CHEMIST" },
-    { "id": 13, "parentId": 4, "name": "JAGATH STORES" }
+    { "id": 11, "parentId": 4, "name": "WEERASEKARA OSU" }
+ 
  
     ]
 }
