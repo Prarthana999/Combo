@@ -23,9 +23,9 @@
     { "uid": 8, "parentId": 3, "name": "CANS" },
     { "uid": 9, "parentId": 3, "name": "TUBES" },
     { "uid": 10, "parentId": 3, "name": "BOTTLES" },
-    { "uid": 8, "parentId": 4, "name": "FACIAL TISSUES" },
-    { "uid": 9, "parentId": 4, "name": "WINGS" },
-    { "uid": 10, "parentId": 4, "name": "SPLASH-ON" }
+    { "uid": 11, "parentId": 4, "name": "FACIAL TISSUES" },
+    { "uid": 12, "parentId": 4, "name": "WINGS" },
+    { "uid": 13, "parentId": 4, "name": "SPLASH-ON" }
     ],
        "Distributor" :[
     { "uid": 1, "parendId": 0, "name": "ALL" },
