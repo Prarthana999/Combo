@@ -3,15 +3,13 @@
     { "uid": 1, "parendId": 0, "name": "Sri Lanka" },
     { "uid": 2, "parentId": 1, "name": "WESTERN" },
     { "uid": 3, "parentId": 1, "name": "SABARAGAMUWA" },
-    { "uid": 4, "parentId": 1, "name": "central" },
-    { "uid": 5, "parentId": 2, "name": "Kurunegala" },
-    { "uid": 6, "parentId": 2, "name": "Colombo" },
-    { "uid": 7, "parentId": 2, "name": "WELLAWATHTHA" },
-    { "uid": 8, "parentId": 3, "name": "Rathanapura" },
-    { "uid": 9, "parentId": 3, "name": "BALANGODA 1" },
-    { "uid": 10, "parentId": 3, "name": "MAHO" },
-    { "uid": 11, "parentId": 4, "name": "NUWARA-ELIYA" },
-    { "uid": 12, "parentId": 4, "name": "THALAWAKALE" }
+   
+    { "uid": 4, "parentId": 2, "name": "Kurunegala" },
+    { "uid": 5, "parentId": 2, "name": "Colombo" },
+    
+    { "uid": 6, "parentId": 3, "name": "Rathanapura" },
+    
+    
     
     
      
