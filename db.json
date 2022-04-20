@@ -1,15 +1,11 @@
 {
 "Area" :[
-     { "uid": 1, "parendId": 0, "name": "Sri Lanka" },
+    { "uid": 1, "parendId": 0, "name": "Sri Lanka" },
     { "uid": 2, "parentId": 1, "name": "WESTERN SOUTH" },
-    { "uid": 3, "parentId": 1, "name": "Jaffna" },
-    { "uid": 4, "parentId": 1, "name": "Eastern" },
     { "uid": 5, "parentId": 2, "name": "Kurunegala" },
-    { "uid": 6, "parentId": 2, "name": "Matale" },
-    { "uid": 7, "parentId": 2, "name": "Rathanapura" },
-    { "uid": 8, "parentId": 3, "name": "Colombo" },
-    { "uid": 9, "parentId": 3, "name": "Mannar" },
-    { "uid": 10, "parentId": 3, "name": "Mullaitivu" }
+    { "uid": 6, "parentId": 2, "name": "Colombo" },
+    { "uid": 7, "parentId": 2, "name": "Rathanapura" }
+     
     ],
      
      "Category" :[
