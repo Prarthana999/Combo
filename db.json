@@ -1,7 +1,7 @@
 {
 "Area" :[
     { "uid": 1, "parendId": 0, "name": "Sri Lanka" },
-    { "uid": 2, "parentId": 1, "name": "WESTERN SOUTH" },
+    { "uid": 2, "parentId": 1, "name": "WESTERN" },
     { "uid": 3, "parentId": 1, "name": "SABARAGAMUWA" },
    
     { "uid": 4, "parentId": 2, "name": "Kurunegala" },
