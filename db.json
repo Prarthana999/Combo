@@ -4,7 +4,7 @@
     { "uid": 2, "parentId": 1, "name": "Central" },
     { "uid": 3, "parentId": 1, "name": "Jaffna" },
     { "uid": 4, "parentId": 1, "name": "Eastern" },
-    { "uid": 5, "parentId": 2, "name": "Kandy" },
+    { "uid": 5, "parentId": 2, "name": "Kurunegala" },
     { "uid": 6, "parentId": 2, "name": "Matale" },
     { "uid": 7, "parentId": 2, "name": "Nuwara Eliya" },
     { "uid": 8, "parentId": 3, "name": "Kilinochchi" },
